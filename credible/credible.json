@@ -1,0 +1,22 @@
+[
+	{"url": "bbc.com", "type": ""},
+	{"url": "bostonglobe.com", "type": ""},
+	{"url": "chicagotribune.com", "type": ""},
+	{"url": "independent.co.uk", "type": ""},
+	{"url": "latimes.com", "type": ""},
+	{"url": "latimes.com", "type": ""},
+	{"url": "reuters.com", "type": ""},
+	{"url": "nature.com", "type": ""},
+	{"url": "newyorktimes.com", "type": ""},
+	{"url": "nydailynews.com", "type": ""},
+	{"url": "nytimes.com", "type": ""},
+	{"url": "oregonlive.com", "type": ""},
+	{"url": "phys.org", "type": ""},
+	{"url": "sltrib.com", "type": ""},
+	{"url": "scientificamerican.com", "type": ""},
+	{"url": "sfgate.com", "type": ""},
+	{"url": "slate.com", "type": ""},
+	{"url": "usatoday.com", "type": ""},
+	{"url": "washingtonpost.com", "type": ""},
+	{"url": "wsj.com", "type": ""}
+]
