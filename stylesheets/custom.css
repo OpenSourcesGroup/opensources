@@ -14,5 +14,5 @@ p#mission{
 div#title{
 	overflow: hidden;
 	display: block;
-	padding-bottom: -11px;
+	padding-bottom: 11px;
 }
