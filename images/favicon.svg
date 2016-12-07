@@ -36,8 +36,8 @@
      fit-margin-right="0.5"
      fit-margin-bottom="0.7"
      inkscape:window-width="1280"
-     inkscape:window-height="971"
-     inkscape:window-x="1280"
+     inkscape:window-height="969"
+     inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      units="px" />
@@ -49,7 +49,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -58,26 +58,29 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-76.068263,-472.87553)">
-    <rect
-       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:35.09199905;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.86666667"
-       id="rect4247"
-       width="451.48254"
-       height="437.32187"
-       x="76.06826"
-       y="472.87552"
-       ry="33.030476"
-       rx="31.314741" />
-    <circle
-       style="fill:none;fill-opacity:1;stroke:#07c36f;stroke-width:36.31567383;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="path4147"
-       cx="389.91888"
-       cy="765.47882"
-       r="101.75755" />
-    <circle
-       style="fill:none;fill-opacity:1;stroke:#6376d3;stroke-width:38.53059769;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.86666667"
-       id="path4147-3"
-       cx="266.04434"
-       cy="662.85156"
-       r="138.82101" />
+    <g
+       id="g4144">
+      <rect
+         rx="31.314741"
+         ry="33.030476"
+         y="472.87552"
+         x="76.06826"
+         height="437.32187"
+         width="451.48254"
+         id="rect4247"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:35.09199905;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.86666667" />
+      <circle
+         r="101.75755"
+         cy="765.47882"
+         cx="389.91888"
+         id="path4147"
+         style="fill:none;fill-opacity:1;stroke:#07c36f;stroke-width:36.31567383;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <circle
+         r="138.82101"
+         cy="662.85156"
+         cx="266.04434"
+         id="path4147-3"
+         style="fill:none;fill-opacity:1;stroke:#6376d3;stroke-width:38.53059769;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.86666667" />
+    </g>
   </g>
 </svg>
