@@ -1,7 +1,8 @@
 header img.openSources-img{
 	height: 60px;
-	display: inline
+	display: inline;
 	bottom: -14px;
+	position: relative;
 }
 header h1{
 	display: inline;
@@ -13,5 +14,5 @@ p#mission{
 div#title{
 	overflow: hidden;
 	display: block;
-	padding-bottom; 11px;
+	padding-bottom; -11px;
 }
