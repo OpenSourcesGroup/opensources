@@ -1,3 +1,8 @@
 header img.openSources-img{
-	height: 57px;
+	height: 60px;
+	display: inline
+}
+header h1{
+	display: inline;
+	margin-left 10px;
 }
