@@ -1,4 +1,9 @@
 {
+  "defenddemocracy.press" : {
+    "language" : "en",
+    "type" : "bias",
+    "notes" : "editorial board as stated on about us seem to be legitimate academics, and originally authored content byline are academics, although not able to find a clear link between edu pages and these authors' work on this website. Many 3rd party articles are linked, sources provided. These articles are aggregated from other more clearly biased sites i.e. world socialist web site (wswg.org), rt.com, sputniknews.com."
+  },
   "4threvolutionarywar.wordpress.com" : {
     "language" : "en",
     "type" : "bias",
@@ -31,7 +36,7 @@
   },
   "americannews.com" : {
     "language" : "en",
-    "type" : "fake",
+    "type" : "fake ",
     "notes" : ""
   },
   "americanpatriotdaily.com" : {
@@ -224,6 +229,176 @@
     "type" : "unreliable",
     "notes" : "basically an RT video channel"
   },
+  "counterinformation.wordpress.com" : {
+    "language" : "en",
+    "type" : "political",
+    "notes" : ""
+  },
+  "counterpunch.com" : {
+    "language" : "en",
+    "type" : "political",
+    "notes" : "explicit POV - legit authors"
+  },
+  "counterpunch.org" : {
+    "language" : "en",
+    "type" : "political",
+    "notes" : "explicit POV - legit authors"
+  },
+  "crystalair.com" : {
+    "language" : "en",
+    "type" : "satire",
+    "notes" : "redirects to http://www.cap-news.com/"
+  },
+  "dailyleak.org" : {
+    "language" : "en",
+    "type" : "parody",
+    "notes" : ""
+  },
+  "darkmoon.me" : {
+    "language" : "en",
+    "type" : "hate",
+    "notes" : ""
+  },
+  "davidduke.com" : {
+    "language" : "en",
+    "type" : "hate",
+    "notes" : ""
+  },
+  "davidstockmanscontracorner.com" : {
+    "language" : "en",
+    "type" : "political",
+    "notes" : ""
+  },
+  "foodbabe.com" : {
+    "language" : "en",
+    "type" : "junksci",
+    "notes" : ""
+  },
+  "lushforlife.com" : {
+    "language" : "en",
+    "type" : "satire",
+    "notes" : ""
+  },
+  "returnofkings.com" : {
+    "language" : "en",
+    "type" : "hate",
+    "notes" : ""
+  },
+  "thebeaverton.com" : {
+    "language" : "en",
+    "type" : "satire",
+    "notes" : ""
+  },
+  "thedailymash.co.uk" : {
+    "language" : "en",
+    "type" : "satire",
+    "notes" : ""
+  },
+  "whydontyoutrythis.com" : {
+    "language" : "en",
+    "type" : "junksci",
+    "notes" : ""
+  },
+  "worldnewsdailyreport.com" : {
+    "language" : "en",
+    "type" : "satire",
+    "notes" : ""
+  },
+  "wundergroundmusic.com" : {
+    "language" : "en",
+    "type" : "satire",
+    "notes" : ""
+  },
+  "whatdoesitmean.com" : {
+    "language" : "en",
+    "type" : "conspiracy",
+    "notes" : ""
+  },
+  "guccifer2.wordpress.com" : {
+    "language" : "en",
+    "type" : "unreliable",
+    "notes" : ""
+  },
+  "healthimpactnews.com" : {
+    "language" : "en",
+    "type" : "junksci",
+    "notes" : ""
+  },
+  "healthnutnews.com" : {
+    "language" : "en",
+    "type" : "junksci",
+    "notes" : ""
+  },
+  "henrymakow.com" : {
+    "language" : "en",
+    "type" : "fake",
+    "notes" : ""
+  },
+  "heresyblog.net" : {
+    "language" : "en",
+    "type" : "bias",
+    "notes" : ""
+  },
+  "holyobserver.com" : {
+    "language" : "en",
+    "type" : "satire",
+    "notes" : ""
+  },
+  "ihavethetruth.com" : {
+    "language" : "en",
+    "type" : "bias",
+    "notes" : ""
+  },
+  "in5d.com" : {
+    "language" : "en",
+    "type" : "junksci",
+    "notes" : ""
+  },
+  "indiaarising.com" : {
+    "language" : "en",
+    "type" : "clickbait",
+    "notes" : ""
+  },
+  "informationclearinghouse.info" : {
+    "language" : "en",
+    "type" : "conspiracy",
+    "notes" : ""
+  },
+  "informetoday.com" : {
+    "language" : "en",
+    "type" : "bias",
+    "notes" : ""
+  },
+  "instaworldnews.com" : {
+    "language" : "en",
+    "type" : "bias",
+    "notes" : ""
+  },
+  "intrendtoday.com" : {
+    "language" : "en",
+    "type" : "clickbait",
+    "notes" : ""
+  },
+  "intrepidreport.com" : {
+    "language" : "en",
+    "type" : "bias",
+    "notes" : ""
+  },
+  "investmentresearchdynamics.com" : {
+    "language" : "en",
+    "type" : "conspiracy",
+    "notes" : ""
+  },
+  "investmentwatchblog.com" : {
+    "language" : "en",
+    "type" : "bias",
+    "notes" : ""
+  },
+  "itaglive.com" : {
+    "language" : "en",
+    "type" : "fake",
+    "notes" : ""
+  },
   "100percentfedup.com" : {
     "language" : "en",
     "type" : "bias",
@@ -286,7 +461,7 @@
   },
   "anonnews.co" : {
     "language" : "en",
-    "type" : "clickbait",
+    "type" : "clickbait ",
     "notes" : ""
   },
   "associatedmediacoverage.com" : {
@@ -311,7 +486,7 @@
   },
   "bigpzone.com" : {
     "language" : "en",
-    "type" : "fake",
+    "type" : "",
     "notes" : "redirects to http://therundownlive.com/ (MZ 12/2)"
   },
   "bipartisanreport.com" : {
@@ -346,7 +521,7 @@
   },
   "cap-news.com" : {
     "language" : "en",
-    "type" : "fake",
+    "type" : "fake ",
     "notes" : ""
   },
   "cbsnews.com.co" : {
@@ -381,7 +556,7 @@
   },
   "coasttocoastam.com" : {
     "language" : "en",
-    "type" : "unreliable",
+    "type" : "unreliable ",
     "notes" : ""
   },
   "consciouslifenews.com" : {
@@ -482,6 +657,11 @@
   "disclose.tv" : {
     "language" : "en",
     "type" : "satire",
+    "notes" : ""
+  },
+  "disclosuremedia.net" : {
+    "language" : "en",
+    "type" : "conspiracy",
     "notes" : ""
   },
   "downtrend.com" : {
@@ -631,7 +811,7 @@
   },
   "jonesreport.com" : {
     "language" : "en",
-    "type" : "conspiracy",
+    "type" : "conspiracy ",
     "notes" : ""
   },
   "landoverbaptist.org" : {
@@ -1059,7 +1239,7 @@
     "type" : "satire",
     "notes" : ""
   },
-  "usapoliticstoday.com" : {
+  "usapoliticstoday.com " : {
     "language" : "en",
     "type" : "bias",
     "notes" : ""
@@ -1182,7 +1362,7 @@
   "conservativedailypost.com" : {
     "language" : "en",
     "type" : "fake",
-    "notes" : "This website is a weird mix of outright fake news and some stuff that looks more credible."
+    "notes" : "This website is a weird mix of outright fake news and some stuff that looks more credible. "
   },
   "conservativetribune.com" : {
     "language" : "en",
@@ -1203,5 +1383,1545 @@
     "language" : "en",
     "type" : "political",
     "notes" : "This site is pretty explicit about it's p.o.v. and is coming from a political perspective but doesn't fit under how we are defining 'bias'"
+  },
+  "dailyoccupation.com" : {
+    "language" : "en",
+    "type" : "conspiracy",
+    "notes" : ""
+  },
+  "dailypolitics.info" : {
+    "language" : "en",
+    "type" : " ",
+    "notes" : "website now down"
+  },
+  "dailypoliticsusa.com" : {
+    "language" : "en",
+    "type" : "bias",
+    "notes" : ""
+  },
+  "dailysquib.co.uk " : {
+    "language" : "en",
+    "type" : "satire",
+    "notes" : ""
+  },
+  "dailystormer.com" : {
+    "language" : "en",
+    "type" : "hate",
+    "notes" : "pretty well known neo-nazi site"
+  },
+  "darkpolitricks.com" : {
+    "language" : "en",
+    "type" : "bias",
+    "notes" : ""
+  },
+  "davidwolfe.com" : {
+    "language" : "en",
+    "type" : "conspiracy",
+    "notes" : ""
+  },
+  "delectabledietofpics.net" : {
+    "language" : "en",
+    "type" : " ",
+    "notes" : "website now down"
+  },
+  "departed.co" : {
+    "language" : "en",
+    "type" : "fake",
+    "notes" : "redircts to dcposts.com "
+  },
+  "dineal.com" : {
+    "language" : "en",
+    "type" : "junksci",
+    "notes" : ""
+  },
+  "educate-yourself.org" : {
+    "language" : "en",
+    "type" : "conspiracy",
+    "notes" : ""
+  },
+  "educateinspirechange.org/health" : {
+    "language" : "en",
+    "type" : "clickbait",
+    "notes" : ""
+  },
+  "elelephantintheroom.blogspot.com" : {
+    "language" : "en",
+    "type" : "bias",
+    "notes" : ""
+  },
+  "elitereaders.com" : {
+    "language" : "en",
+    "type" : "clickbait",
+    "notes" : ""
+  },
+  "elkoshary.com" : {
+    "language" : "en",
+    "type" : "satire",
+    "notes" : "About Me notes that it's not fake/satircal news"
+  },
+  "elmundotoday.com" : {
+    "language" : "en",
+    "type" : "satire",
+    "notes" : "About Me notes that it's not fake/satircal news"
+  },
+  "empiresports.co" : {
+    "language" : "en",
+    "type" : "satire",
+    "notes" : "About Me notes that it's not fake/satircal news"
+  },
+  "enabon.com" : {
+    "language" : "en",
+    "type" : "fake",
+    "notes" : "No authors, no contact, just copy/pasted from other questionable sites"
+  },
+  "endoftheamericandream.com" : {
+    "language" : "en",
+    "type" : "unknown",
+    "notes" : "website down"
+  },
+  "endtime.com" : {
+    "language" : "en",
+    "type" : "unknown",
+    "notes" : "Not sure about this one. zany religious prophecy/not really conspiracy"
+  },
+  "everythingnewdaily.com" : {
+    "language" : "en",
+    "type" : "unknown",
+    "notes" : "website down"
+  },
+  "ewao.com" : {
+    "language" : "en",
+    "type" : "junksci",
+    "notes" : ""
+  },
+  "washingtonsblog.com" : {
+    "language" : "en",
+    "type" : "bias",
+    "notes" : "Site notes it sometimes contains parody"
+  },
+  "westernjournalism.com" : {
+    "language" : "en",
+    "type" : "bias",
+    "notes" : ""
+  },
+  "dennismichaellynch.com" : {
+    "language" : "en",
+    "type" : "political",
+    "notes" : ""
+  },
+  "diversitychronicle.wordpress.com" : {
+    "language" : "en",
+    "type" : "satire",
+    "notes" : "self-labled: https://diversitychronicle.wordpress.com/disclaimer/ "
+  },
+  "english.ruvr.ru" : {
+    "language" : "en",
+    "type" : "unknown",
+    "notes" : "redirects to https://sputniknews.com/ "
+  },
+  "eutopia.buzz" : {
+    "language" : "en",
+    "type" : "fake",
+    "notes" : ""
+  },
+  "everydayworldnews.com" : {
+    "language" : "en",
+    "type" : "unknown",
+    "notes" : "website down"
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : "",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : " ",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : " ",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : " ",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : " ",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : " ",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : " ",
+    "notes" : ""
+  },
+  "" : {
+    "language" : "",
+    "type" : " ",
+    "notes" : ""
   }
 }
