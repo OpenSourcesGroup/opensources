@@ -1029,7 +1029,7 @@
     "type" : "fake",
     "notes" : ""
   },
-  "patriotnewsdaily" : {
+  "patriotnewsdaily.com" : {
     "language" : "en",
     "type" : "bias",
     "notes" : ""
@@ -1234,7 +1234,7 @@
     "type" : "satire",
     "notes" : ""
   },
-  "usapoliticstoday.com " : {
+  "usapoliticstoday.com" : {
     "language" : "en",
     "type" : "bias",
     "notes" : ""
@@ -1394,7 +1394,7 @@
     "type" : "bias",
     "notes" : ""
   },
-  "dailysquib.co.uk " : {
+  "dailysquib.co.uk" : {
     "language" : "en",
     "type" : "satire",
     "notes" : ""
