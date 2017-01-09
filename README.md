@@ -1,7 +1,7 @@
 #OpenSources
 ##Professionally curated lists of online sources, available free for public use.
 
-##Please contribute your own links and tags at [OpenSources.co](opensources.co).
+##Please contribute your own links and tags at [OpenSources.co](http://opensources.co).
 
 ##Who we are:
 
