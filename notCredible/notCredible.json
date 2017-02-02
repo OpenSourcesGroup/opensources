@@ -419,7 +419,7 @@
     "type" : "satire",
     "notes" : ""
   },
-  "channel-7-news.com/" : {
+  "channel-7-news.com" : {
     "language" : "en",
     "type" : "fake",
     "notes" : ""
@@ -879,7 +879,7 @@
     "type" : "conspiracy",
     "notes" : ""
   },
-  "educateinspirechange.org/health" : {
+  "educateinspirechange.org" : {
     "language" : "en",
     "type" : "clickbait",
     "notes" : ""
@@ -2149,11 +2149,6 @@
     "type" : "political",
     "notes" : ""
   },
-  "rawws.com" : {
-    "language" : "en",
-    "type" : "unknown",
-    "notes" : "site won't load for me--kg/ x2 mz"
-  },
   "rbth.com" : {
     "language" : "en",
     "type" : "unknown",
@@ -2529,7 +2524,7 @@
     "type" : "bias",
     "notes" : ""
   },
-  "thegoldandoilguy.com/articles" : {
+  "thegoldandoilguy.com" : {
     "language" : "en",
     "type" : "unreliable",
     "notes" : ""
