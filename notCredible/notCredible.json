@@ -69,7 +69,7 @@
     "type" : "satire",
     "notes" : ""
   },
-  "Acting-Man.com" : {
+  "acting-man.com" : {
     "language" : "en",
     "type" : "unreliable",
     "notes" : "publishes articles denying climate change"
@@ -109,7 +109,7 @@
     "type" : "conspiracy",
     "notes" : ""
   },
-  "AmericanKabuki.blogspot.com" : {
+  "americankabuki.blogspot.com" : {
     "language" : "en",
     "type" : "junksci",
     "notes" : ""
@@ -149,7 +149,7 @@
     "type" : "bias",
     "notes" : ""
   },
-  "AmmoLand.com" : {
+  "ammoland.com" : {
     "language" : "en",
     "type" : "bias",
     "notes" : ""
@@ -234,10 +234,10 @@
     "type" : "clickbait",
     "notes" : ""
   },
-  "AutomaticEarth.com" : {
+  "automaticearth.com" : {
     "language" : "en",
     "type" : "unreliable",
-    "notes" : "links to MSM sources and unreliable sources"
+    "notes" : "links to msm sources and unreliable sources"
   },
   "automotostar.com" : {
     "language" : "en",
@@ -264,7 +264,7 @@
     "type" : "hate",
     "notes" : ""
   },
-  "BB4SP.com" : {
+  "bb4sp.com" : {
     "language" : "en",
     "type" : "conpiracy",
     "notes" : ""
@@ -322,7 +322,7 @@
   "bigpzone.com" : {
     "language" : "en",
     "type" : "",
-    "notes" : "redirects to http://therundownlive.com/ (MZ 12/2)"
+    "notes" : "redirects to http://therundownlive.com/ (mz 12/2)"
   },
   "bipartisanreport.com" : {
     "language" : "en",
@@ -344,7 +344,7 @@
     "type" : "clickbait",
     "notes" : ""
   },
-  "Boilingfrogspost.com" : {
+  "boilingfrogspost.com" : {
     "language" : "en",
     "type" : "unreliable ",
     "notes" : "links to natural news, blacklist news, some conspiracy sites"
@@ -369,15 +369,15 @@
     "type" : "political",
     "notes" : ""
   },
-  "BrotherJohnF.com" : {
+  "brotherjohnf.com" : {
     "language" : "en",
     "type" : "bias",
     "notes" : ""
   },
-  "BullionBullsCanada.com" : {
+  "bullionbullscanada.com" : {
     "language" : "en",
     "type" : "conspiracy",
-    "notes" : "The \"one\" bank"
+    "notes" : "the \"one\" bank"
   },
   "burrardstreetjournal.com" : {
     "language" : "en",
@@ -419,7 +419,7 @@
     "type" : "satire",
     "notes" : ""
   },
-  "channel-7-news.com/" : {
+  "channel-7-news.com" : {
     "language" : "en",
     "type" : "fake",
     "notes" : ""
@@ -482,12 +482,12 @@
   "cnnnext.com" : {
     "language" : "en",
     "type" : "unreliable",
-    "notes" : "basically an RT video channel"
+    "notes" : "basically an rt video channel"
   },
-  "CNSNews.com" : {
+  "cnsnews.com" : {
     "language" : "en",
     "type" : "unreliable",
-    "notes" : "The news arm of Media Research Center (a conservative org that is frequently criticized for use of selective evidence) "
+    "notes" : "the news arm of media research center (a conservative org that is frequently criticized for use of selective evidence) "
   },
   "coasttocoastam.com" : {
     "language" : "en",
@@ -527,7 +527,7 @@
   "conservativedailypost.com" : {
     "language" : "en",
     "type" : "fake",
-    "notes" : "This website is a weird mix of outright fake news and some stuff that looks more credible. "
+    "notes" : "this website is a weird mix of outright fake news and some stuff that looks more credible. "
   },
   "conservativefiringline.com" : {
     "language" : "en",
@@ -572,7 +572,7 @@
   "consortiumnews.com" : {
     "language" : "en",
     "type" : "credible",
-    "notes" : "The authors on this website are pretty credible and the articles appear well researched"
+    "notes" : "the authors on this website are pretty credible and the articles appear well researched"
   },
   "conspiracywire.com" : {
     "language" : "en",
@@ -597,7 +597,7 @@
   "countercurrents.org" : {
     "language" : "en",
     "type" : "political",
-    "notes" : "This site is pretty explicit about it's p.o.v. and is coming from a political perspective but doesn't fit under how we are defining 'bias'"
+    "notes" : "this site is pretty explicit about it's p.o.v. and is coming from a political perspective but doesn't fit under how we are defining 'bias'"
   },
   "counterinformation.wordpress.com" : {
     "language" : "en",
@@ -612,12 +612,12 @@
   "counterpunch.com" : {
     "language" : "en",
     "type" : "political",
-    "notes" : "explicit POV - legit authors"
+    "notes" : "explicit pov - legit authors"
   },
   "counterpunch.org" : {
     "language" : "en",
     "type" : "political",
-    "notes" : "explicit POV - legit authors"
+    "notes" : "explicit pov - legit authors"
   },
   "creambmp.com" : {
     "language" : "en",
@@ -724,7 +724,7 @@
     "type" : "bias",
     "notes" : ""
   },
-  "DaveJanda.com" : {
+  "davejanda.com" : {
     "language" : "en",
     "type" : "unreliable",
     "notes" : ""
@@ -759,7 +759,7 @@
     "type" : "unreliable",
     "notes" : ""
   },
-  "DeadlyClear.wordpress.com" : {
+  "deadlyclear.wordpress.com" : {
     "language" : "en",
     "type" : "unknown",
     "notes" : "personal blog that comments on news stories and blog posts"
@@ -767,7 +767,7 @@
   "defenddemocracy.press" : {
     "language" : "en",
     "type" : "bias",
-    "notes" : "editorial board as stated on about us seem to be legitimate academics, and originally authored content byline are academics, although not able to find a clear link between edu pages and these authors' work on this website. Many 3rd party articles are linked, sources provided. These articles are aggregated from other more clearly biased sites i.e. world socialist web site (wswg.org), rt.com, sputniknews.com."
+    "notes" : "editorial board as stated on about us seem to be legitimate academics, and originally authored content byline are academics, although not able to find a clear link between edu pages and these authors' work on this website. many 3rd party articles are linked, sources provided. these articles are aggregated from other more clearly biased sites i.e. world socialist web site (wswg.org), rt.com, sputniknews.com."
   },
   "delectabledietofpics.net" : {
     "language" : "en",
@@ -819,7 +819,7 @@
     "type" : "satire",
     "notes" : "self-labled: https://diversitychronicle.wordpress.com/disclaimer/ "
   },
-  "DollarVigilante.com" : {
+  "dollarvigilante.com" : {
     "language" : "en",
     "type" : "bias",
     "notes" : "anarcho-capitalist blog"
@@ -829,7 +829,7 @@
     "type" : "fake",
     "notes" : ""
   },
-  "Dont-Tread-On.Me" : {
+  "dont-tread-on.me" : {
     "language" : "en",
     "type" : "conspiracy",
     "notes" : "doesn't seem to be updating anymore"
@@ -859,17 +859,17 @@
     "type" : "satire",
     "notes" : ""
   },
-  "Dutchsinse.com" : {
+  "dutchsinse.com" : {
     "language" : "en",
     "type" : "conspiracy",
     "notes" : "weather control"
   },
-  "EagleRising.com" : {
+  "eaglerising.com" : {
     "language" : "en",
     "type" : "bias",
     "notes" : ""
   },
-  "EbolaHoax.com" : {
+  "ebolahoax.com" : {
     "language" : "en",
     "type" : "conspiracy",
     "notes" : "domain for sale"
@@ -879,7 +879,7 @@
     "type" : "conspiracy",
     "notes" : ""
   },
-  "educateinspirechange.org/health" : {
+  "educateinspirechange.org" : {
     "language" : "en",
     "type" : "clickbait",
     "notes" : ""
@@ -902,12 +902,12 @@
   "elkoshary.com" : {
     "language" : "en",
     "type" : "satire",
-    "notes" : "About Me notes that it's not fake/satirical news"
+    "notes" : "about me notes that it's not fake/satirical news"
   },
   "elmundotoday.com" : {
     "language" : "en",
     "type" : "satire",
-    "notes" : "About Me notes that it's not fake/satirical news"
+    "notes" : "about me notes that it's not fake/satirical news"
   },
   "embols.com" : {
     "language" : "en",
@@ -927,9 +927,9 @@
   "empiresports.co" : {
     "language" : "en",
     "type" : "satire",
-    "notes" : "About Me notes that it's not fake/satirical news"
+    "notes" : "about me notes that it's not fake/satirical news"
   },
-  "Emptywheel.net" : {
+  "emptywheel.net" : {
     "language" : "en",
     "type" : "political",
     "notes" : "commentary on current events/news"
@@ -937,7 +937,7 @@
   "enabon.com" : {
     "language" : "en",
     "type" : "fake",
-    "notes" : "No authors, no contact, just copy/pasted from other questionable sites"
+    "notes" : "no authors, no contact, just copy/pasted from other questionable sites"
   },
   "endingthefed.com" : {
     "language" : "en",
@@ -952,7 +952,7 @@
   "endtime.com" : {
     "language" : "en",
     "type" : "unknown",
-    "notes" : "Not sure about this one. zany religious prophecy/not really conspiracy"
+    "notes" : "not sure about this one. zany religious prophecy/not really conspiracy"
   },
   "enduringvision.com" : {
     "language" : "en",
@@ -964,7 +964,7 @@
     "type" : "unknown",
     "notes" : "redirects to https://sputniknews.com/ "
   },
-  "EUTimes.net" : {
+  "eutimes.net" : {
     "language" : "en",
     "type" : "hate",
     "notes" : ""
@@ -989,7 +989,7 @@
     "type" : "junksci",
     "notes" : ""
   },
-  "Expose1933.com" : {
+  "expose1933.com" : {
     "language" : "en",
     "type" : "conspiracy",
     "notes" : "references to \"white genocide\" and \"race mixing\""
@@ -1034,7 +1034,7 @@
     "type" : "political",
     "notes" : ""
   },
-  "FinancialSurvivalNetwork.com" : {
+  "financialsurvivalnetwork.com" : {
     "language" : "en",
     "type" : "unreliable",
     "notes" : ""
@@ -1042,7 +1042,7 @@
   "floridasunpost.com" : {
     "language" : "en",
     "type" : "fake",
-    "notes" : "I concur: http://mashable.com/2016/10/03/fake-news-story-man-marries-granddaughter/#QvpAzP.e8Oqb "
+    "notes" : "i concur: http://mashable.com/2016/10/03/fake-news-story-man-marries-granddaughter/#qvpazp.e8oqb "
   },
   "flyheight.com" : {
     "language" : "en",
@@ -1089,7 +1089,7 @@
     "type" : "bias",
     "notes" : ""
   },
-  "FreeBeacon.com" : {
+  "freebeacon.com" : {
     "language" : "en",
     "type" : "bias",
     "notes" : ""
@@ -1099,7 +1099,7 @@
     "type" : "fake",
     "notes" : ""
   },
-  "FreedomForceInternational.com" : {
+  "freedomforceinternational.com" : {
     "language" : "en",
     "type" : "conspiracy",
     "notes" : "global warming denial"
@@ -1109,7 +1109,7 @@
     "type" : "conspiracy",
     "notes" : ""
   },
-  "FreedomsPhoenix.com" : {
+  "freedomsphoenix.com" : {
     "language" : "en",
     "type" : "bias",
     "notes" : ""
@@ -1137,7 +1137,7 @@
   "frontpagemag.com" : {
     "language" : "en",
     "type" : "bias",
-    "notes" : "Part of David Horowitz' Freedom Center"
+    "notes" : "part of david horowitz' freedom center"
   },
   "fusion.net" : {
     "language" : "en",
@@ -1199,7 +1199,7 @@
     "type" : "fake",
     "notes" : ""
   },
-  "GonzaloLira.Blogspot.com" : {
+  "gonzalolira.blogspot.com" : {
     "language" : "en",
     "type" : "unknown",
     "notes" : "blog is invite only"
@@ -1379,7 +1379,7 @@
     "type" : "fake",
     "notes" : ""
   },
-  "ItMakesSenseBlog.com" : {
+  "itmakessenseblog.com" : {
     "language" : "en",
     "type" : "fake",
     "notes" : ""
@@ -1437,7 +1437,7 @@
   "katehon.org" : {
     "language" : "en",
     "type" : "unknown",
-    "notes" : "russian version of katehon.com? (I think so, but i can't get a read on this one- mz)"
+    "notes" : "russian version of katehon.com? (i think so, but i can't get a read on this one- mz)"
   },
   "landoverbaptist.org" : {
     "language" : "en",
@@ -1447,7 +1447,7 @@
   "legorafi.fr" : {
     "language" : "en",
     "type" : "unknown",
-    "notes" : "in French"
+    "notes" : "in french"
   },
   "lewrockwell.com" : {
     "language" : "en",
@@ -1542,7 +1542,7 @@
   "livefreelivenatural.com" : {
     "language" : "en",
     "type" : "malware warning",
-    "notes" : "*Malware Warning, did not navigate to site"
+    "notes" : "*malware warning, did not navigate to site"
   },
   "livevote.com" : {
     "language" : "en",
@@ -1717,7 +1717,7 @@
   "newcoldwar.org" : {
     "language" : "en",
     "type" : "political",
-    "notes" : "contains statement that site authors are \"independent, but not non-partisan\" (anti-war (Ukraine))"
+    "notes" : "contains statement that site authors are \"independent, but not non-partisan\" (anti-war (ukraine))"
   },
   "news4ktla.com" : {
     "language" : "en",
@@ -1769,7 +1769,7 @@
     "type" : "fake",
     "notes" : "redirects to http://politicops.com/ (12/2)"
   },
-  "Newsmax.com" : {
+  "newsmax.com" : {
     "language" : "en",
     "type" : "unreliable",
     "notes" : ""
@@ -1802,7 +1802,7 @@
   "newstoad.net" : {
     "language" : "en",
     "type" : "satire",
-    "notes" : "Tagline: The news they don't want you to hear. Because it isn't true."
+    "notes" : "tagline: the news they don't want you to hear. because it isn't true."
   },
   "newswatch28.com" : {
     "language" : "en",
@@ -1834,7 +1834,7 @@
     "type" : "conspiracy",
     "notes" : ""
   },
-  "NoMoreFakeNews.com" : {
+  "nomorefakenews.com" : {
     "language" : "en",
     "type" : "conspiracy",
     "notes" : ""
@@ -1862,12 +1862,12 @@
   "nutritionfacts.org" : {
     "language" : "en",
     "type" : "credible",
-    "notes" : "I read through several articles and the sources cited, and appears ok (maybe sometimes a little sensational... so if anyone has specific knowledge of this site and/or good examples of problems, feel free to link them here)"
+    "notes" : "i read through several articles and the sources cited, and appears ok (maybe sometimes a little sensational... so if anyone has specific knowledge of this site and/or good examples of problems, feel free to link them here)"
   },
   "nymeta.co" : {
     "language" : "en",
     "type" : "clickbait",
-    "notes" : "Entertainment website "
+    "notes" : "entertainment website "
   },
   "nyuzer.com" : {
     "language" : "en",
@@ -1987,7 +1987,7 @@
   "politicalblindspot.com" : {
     "language" : "en",
     "type" : "conspiracy",
-    "notes" : "ex: vaccines are a way for the CIA to spy on us"
+    "notes" : "ex: vaccines are a way for the cia to spy on us"
   },
   "politicalcult.com" : {
     "language" : "en",
@@ -2012,7 +2012,7 @@
   "politicaltimes.org" : {
     "language" : "en",
     "type" : "unknown",
-    "notes" : "site that pops up is only Bluehost Web Hosting site link"
+    "notes" : "site that pops up is only bluehost web hosting site link"
   },
   "politicalupdator.com" : {
     "language" : "en",
@@ -2149,15 +2149,10 @@
     "type" : "political",
     "notes" : ""
   },
-  "rawws.com" : {
-    "language" : "en",
-    "type" : "unknown",
-    "notes" : "site won't load for me--kg/ x2 mz"
-  },
   "rbth.com" : {
     "language" : "en",
     "type" : "unknown",
-    "notes" : "sponsored by Rossiyskaya Gazeta (a Russian Gov't daily paper)"
+    "notes" : "sponsored by rossiyskaya gazeta (a russian gov't daily paper)"
   },
   "react365.com" : {
     "language" : "en",
@@ -2307,12 +2302,12 @@
   "ruptly.tv" : {
     "language" : "en",
     "type" : "political",
-    "notes" : "owned by RT"
+    "notes" : "owned by rt"
   },
   "russia-direct.org" : {
     "language" : "en",
     "type" : "unknown",
-    "notes" : "Russian news agencies are REALLY hard to analyze "
+    "notes" : "russian news agencies are really hard to analyze "
   },
   "russia-insider.com" : {
     "language" : "en",
@@ -2359,32 +2354,32 @@
     "type" : "conspiracy",
     "notes" : ""
   },
-  "Silver-Coin-Investor. com" : {
+  "silver-coin-investor. com" : {
     "language" : "en",
     "type" : "conspiracy",
     "notes" : ""
   },
-  "SilverBearCafe.com" : {
+  "silverbearcafe.com" : {
     "language" : "en",
     "type" : "conspiracy",
     "notes" : ""
   },
-  "SilverDoctors.com" : {
+  "silverdoctors.com" : {
     "language" : "en",
     "type" : "conspiracy",
     "notes" : ""
   },
-  "SilverStealers.net" : {
+  "silverstealers.net" : {
     "language" : "en",
     "type" : "conspiracy",
     "notes" : ""
   },
-  "SilverStrategies.com" : {
+  "silverstrategies.com" : {
     "language" : "en",
     "type" : "unknown",
     "notes" : "website down"
   },
-  "SJLendman.Blogspot.com" : {
+  "sjlendman.blogspot.com" : {
     "language" : "en",
     "type" : "bias",
     "notes" : ""
@@ -2499,7 +2494,7 @@
     "type" : "conspiracy",
     "notes" : ""
   },
-  "TheExtinctionProtocol.com" : {
+  "theextinctionprotocol.com" : {
     "language" : "en",
     "type" : "conspiracy",
     "notes" : ""
@@ -2529,7 +2524,7 @@
     "type" : "bias",
     "notes" : ""
   },
-  "thegoldandoilguy.com/articles" : {
+  "thegoldandoilguy.com" : {
     "language" : "en",
     "type" : "unreliable",
     "notes" : ""
@@ -2617,7 +2612,7 @@
   "theracketreport.com" : {
     "language" : "en",
     "type" : "fake",
-    "notes" : "I can't find disclaimers, but I think it's satirical "
+    "notes" : "i can't find disclaimers, but i think it's satirical "
   },
   "therealstrategy.com" : {
     "language" : "en",
@@ -2672,7 +2667,7 @@
   "thetruthseeker.co.uk" : {
     "language" : "en",
     "type" : "fake",
-    "notes" : "ex: NY orchestrated the asian tsunami in 2008!"
+    "notes" : "ex: ny orchestrated the asian tsunami in 2008!"
   },
   "theunrealtimes.com" : {
     "language" : "en",
@@ -2709,7 +2704,7 @@
     "type" : "clickbait",
     "notes" : ""
   },
-  "TrueActivist.com" : {
+  "trueactivist.com" : {
     "language" : "en",
     "type" : "clickbait",
     "notes" : ""
@@ -2882,7 +2877,7 @@
   "washingtonsblog.com" : {
     "language" : "en",
     "type" : "bias",
-    "notes" : "Site notes it sometimes contains parody"
+    "notes" : "site notes it sometimes contains parody"
   },
   "waterfordwhispersnews.com" : {
     "language" : "en",
@@ -2944,7 +2939,7 @@
     "type" : "rumors",
     "notes" : ""
   },
-  "Willyloman.wordpress.com" : {
+  "willyloman.wordpress.com" : {
     "language" : "en",
     "type" : "conspiracy",
     "notes" : ""
@@ -2977,7 +2972,7 @@
   "world24monitor.com" : {
     "language" : "en",
     "type" : "unknown",
-    "notes" : "As far as I can tell, one person just writes up new versions of actual news stories. "
+    "notes" : "as far as i can tell, one person just writes up new versions of actual news stories. "
   },
   "worldcallyoutoday.com" : {
     "language" : "en",
@@ -3044,7 +3039,7 @@
     "type" : "fake",
     "notes" : ""
   },
-  "Youngcons.com" : {
+  "youngcons.com" : {
     "language" : "en",
     "type" : "bias",
     "notes" : ""
@@ -3052,7 +3047,7 @@
   "yourfunpage.com" : {
     "language" : "en",
     "type" : "fake",
-    "notes" : "mostly links to rando YT videos"
+    "notes" : "mostly links to rando yt videos"
   },
   "yournewswire.com" : {
     "language" : "en",
