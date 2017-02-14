@@ -1,21 +1,97 @@
-[
-	{"url": "bbc.com", "type": ""},
-	{"url": "bostonglobe.com", "type": ""},
-	{"url": "chicagotribune.com", "type": ""},
-	{"url": "independent.co.uk", "type": ""},
-	{"url": "latimes.com", "type": ""},
-	{"url": "reuters.com", "type": ""},
-	{"url": "nature.com", "type": ""},
-	{"url": "newyorktimes.com", "type": ""},
-	{"url": "nydailynews.com", "type": ""},
-	{"url": "nytimes.com", "type": ""},
-	{"url": "oregonlive.com", "type": ""},
-	{"url": "phys.org", "type": ""},
-	{"url": "sltrib.com", "type": ""},
-	{"url": "scientificamerican.com", "type": ""},
-	{"url": "sfgate.com", "type": ""},
-	{"url": "slate.com", "type": ""},
-	{"url": "usatoday.com", "type": ""},
-	{"url": "washingtonpost.com", "type": ""},
-	{"url": "wsj.com", "type": ""}
-]
+{
+  "bbc.com" : { 
+    "language": "en",
+    "type": "",
+    "notes": ""
+  },
+  "bostonglobe.com" : {
+    "language": "en",
+    "type": "",
+    "notes": ""
+  },
+  "chicagotribune.com" : {
+    "language": "en",
+    "type": "",
+    "notes": ""
+  },
+  "independent.co.uk" : {
+    "language": "en",
+    "type": "",
+    "notes": ""
+  },
+  "latimes.com" : {
+    "language": "en",
+    "type": "",
+    "notes": ""
+  },
+  "reuters.com" : {
+    "language": "en",
+    "type": "",
+    "notes": ""
+  },
+  "nature.com" : {
+    "language": "en",
+    "type": "",
+    "notes": ""
+  },
+  "newyorktimes.com" : {
+    "language": "en",
+    "type": "",
+    "notes": ""
+  },
+  "nydailynews.com" : {
+    "language": "en",
+    "type": "",
+    "notes": ""
+  },
+  "nytimes.com" : {
+    "language": "en",
+    "type": "",
+    "notes": ""
+  },
+  "oregonlive.com" : {
+    "language": "en",
+    "type": "",
+    "notes": ""
+  },
+  "phys.org" : {
+    "language": "en",
+    "type": "",
+    "notes": ""
+  },
+  "sltrib.com" : {
+    "language": "en",
+    "type": "",
+    "notes": ""
+  },
+  "scientificamerican.com" : {
+    "language": "en",
+    "type": "",
+    "notes": ""
+  },
+  "sfgate.com" : {
+    "language": "en",
+    "type": "",
+    "notes": ""
+  },
+  "slate.com" : {
+    "language": "en",
+    "type": "",
+    "notes": ""
+  },
+  "usatoday.com" : {
+    "language": "en",
+    "type": "",
+    "notes": ""
+  },
+  "washingtonpost.com" : {
+    "language": "en",
+    "type": "",
+    "notes": ""
+  },
+  "wsj.com" : {
+    "language": "en",
+    "type": "",
+    "notes": ""
+  }
+}
