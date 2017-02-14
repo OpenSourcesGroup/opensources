@@ -2,7 +2,7 @@
 
 ## Professionally curated lists of online sources, available free for public use.
 
-## Using OpenSources?  [Help us out by taking this survey!](https://atom.io/packages/atom-beautify#language-support)
+## Using OpenSources?  [Help us out by taking this survey!](https://docs.google.com/forms/d/1_RdOaefYlleacBeRjb9Vp4StAYwujzCJONfAisD5_No/edit?usp=sharing)
 
 ## Please contribute your own links and tags at [OpenSources.co](http://opensources.co).
 
