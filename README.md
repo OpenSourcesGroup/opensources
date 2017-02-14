@@ -2,6 +2,8 @@
 
 ## Professionally curated lists of online sources, available free for public use.
 
+## Using OpenSources?  [Help us out by taking this survey!](https://atom.io/packages/atom-beautify#language-support)
+
 ## Please contribute your own links and tags at [OpenSources.co](http://opensources.co).
 
 ## If you use our data in any of your projects, please feel free to include our badge in your website/readme: [![OpenSources data](https://img.shields.io/badge/Data-OpenSources-blue.svg)](http://opensources.co)
