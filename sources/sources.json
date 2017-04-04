@@ -45,7 +45,7 @@
     "type" : "conspiracy",
     "2nd type" : "fake",
     "3rd type" : "",
-    "Source Notes (things to know?)" : " ",
+    "Source Notes (things to know?)" : "",
     "Investigated?" : ""
   },
   "aanirfan.blogspot.co.uk" : {
@@ -156,7 +156,7 @@
   "Alt-Market.com" : {
     "type" : "conspiracy",
     "2nd type" : "bias",
-    "3rd type" : " ",
+    "3rd type" : "",
     "Source Notes (things to know?)" : "",
     "Investigated?" : ""
   },
@@ -246,7 +246,7 @@
   },
   "americanthinker.com" : {
     "type" : "bias",
-    "2nd type" : " ",
+    "2nd type" : "",
     "3rd type" : "",
     "Source Notes (things to know?)" : "sites both reliable/not reliable sources, mix of opinion/'fact'",
     "Investigated?" : ""
@@ -269,7 +269,7 @@
     "type" : "bias",
     "2nd type" : "",
     "3rd type" : "",
-    "Source Notes (things to know?)" : " ",
+    "Source Notes (things to know?)" : "",
     "Investigated?" : ""
   },
   "amplifyingglass.com" : {
@@ -653,13 +653,13 @@
   "canadafreepress.com" : {
     "type" : "conspiracy",
     "2nd type" : "bias",
-    "3rd type" : " ",
+    "3rd type" : "",
     "Source Notes (things to know?)" : "",
     "Investigated?" : ""
   },
   "cap-news.com" : {
     "type" : "fake",
-    "2nd type" : " ",
+    "2nd type" : "",
     "3rd type" : "",
     "Source Notes (things to know?)" : "",
     "Investigated?" : false
@@ -757,7 +757,7 @@
   },
   "chronicle.su" : {
     "type" : "satire",
-    "2nd type" : " ",
+    "2nd type" : "",
     "3rd type" : "",
     "Source Notes (things to know?)" : "",
     "Investigated?" : false
@@ -876,15 +876,15 @@
   },
   "consciouslifenews.com" : {
     "type" : "junksci",
-    "2nd type" : " ",
+    "2nd type" : "",
     "3rd type" : "",
     "Source Notes (things to know?)" : "",
     "Investigated?" : true
   },
   "conservapedia.com" : {
     "type" : "bias",
-    "2nd type" : " ",
-    "3rd type" : " ",
+    "2nd type" : "",
+    "3rd type" : "",
     "Source Notes (things to know?)" : "",
     "Investigated?" : ""
   },
@@ -1030,7 +1030,7 @@
   },
   "countdowntozerotime.com" : {
     "type" : "conspiracy",
-    "2nd type" : " ",
+    "2nd type" : "",
     "3rd type" : "",
     "Source Notes (things to know?)" : "",
     "Investigated?" : true
@@ -1142,14 +1142,14 @@
   },
   "dailyheadlines.com" : {
     "type" : "fake",
-    "2nd type" : " ",
+    "2nd type" : "",
     "3rd type" : "",
     "Source Notes (things to know?)" : "",
     "Investigated?" : ""
   },
   "dailyheadlines.net" : {
     "type" : "fake",
-    "2nd type" : " ",
+    "2nd type" : "",
     "3rd type" : "",
     "Source Notes (things to know?)" : "",
     "Investigated?" : ""
@@ -1164,12 +1164,12 @@
   "dailykos.com" : {
     "type" : "political",
     "2nd type" : "clickbait",
-    "3rd type" : " ",
+    "3rd type" : "",
     "Source Notes (things to know?)" : "",
     "Investigated?" : ""
   },
   "dailyleak.org" : {
-    "type" : "parody",
+    "type" : "satire",
     "2nd type" : "fake",
     "3rd type" : "",
     "Source Notes (things to know?)" : "",
@@ -1180,7 +1180,7 @@
     "2nd type" : "clickbait",
     "3rd type" : "",
     "Source Notes (things to know?)" : "",
-    "Investigated?" : " "
+    "Investigated?" : ""
   },
   "dailynewspolitic.com" : {
     "type" : "unknown",
@@ -1215,7 +1215,7 @@
     "2nd type" : "",
     "3rd type" : "",
     "Source Notes (things to know?)" : "",
-    "Investigated?" : " "
+    "Investigated?" : ""
   },
   "dailysquib.co.uk" : {
     "type" : "satire",
@@ -1303,7 +1303,7 @@
   },
   "dcclothesline.com" : {
     "type" : "conspiracy",
-    "2nd type" : "junkscience",
+    "2nd type" : "junksci",
     "3rd type" : "",
     "Source Notes (things to know?)" : "",
     "Investigated?" : true
@@ -1331,7 +1331,7 @@
   },
   "DeadlyClear.wordpress.com" : {
     "type" : "bias",
-    "2nd type" : "fake news",
+    "2nd type" : "fake",
     "3rd type" : "",
     "Source Notes (things to know?)" : "Not a personal website, owned by Project Maui, Inc. Makes unverifiable extraordinary claims, seems to be advertising for lawyers with a history of legal reprimands.",
     "Investigated?" : ""
@@ -1551,7 +1551,7 @@
     "2nd type" : "unreliable",
     "3rd type" : "",
     "Source Notes (things to know?)" : "",
-    "Investigated?" : " "
+    "Investigated?" : ""
   },
   "elelephantintheroom.blogspot.com" : {
     "type" : "bias",
@@ -1625,22 +1625,22 @@
   },
   "endingthefed.com" : {
     "type" : "bias",
-    "2nd type" : " ",
+    "2nd type" : "",
     "3rd type" : "",
     "Source Notes (things to know?)" : "",
     "Investigated?" : true
   },
   "endoftheamericandream.com" : {
-    "type" : "Conspiracy",
-    "2nd type" : "Fake",
-    "3rd type" : "Political",
+    "type" : "conspiracy",
+    "2nd type" : "fake",
+    "3rd type" : "political",
     "Source Notes (things to know?)" : "Traffics in religious conspiracy theories and poorly sourced pro-Trump propaganda",
     "Investigated?" : false
   },
   "endtime.com" : {
     "type" : "bias",
     "2nd type" : "clickbait",
-    "3rd type" : "Political",
+    "3rd type" : "political",
     "Source Notes (things to know?)" : "Not sure about this one. zany religious prophecy/not really conspiracy",
     "Investigated?" : false
   },
@@ -1750,7 +1750,7 @@
     "Investigated?" : false
   },
   "FarmWars.info" : {
-    "type" : "fake news",
+    "type" : "fake",
     "2nd type" : "conspiracy",
     "3rd type" : "",
     "Source Notes (things to know?)" : "Much of the site is focused on anti-GMO conspiracies, with political conspiracies coming in as a close second. There are some apparent attempts to source some wild claims, but the use of unstable URLs-- intentionally or otherwise-- thwarts this.",
@@ -1786,14 +1786,14 @@
   },
   "firearmscoalition.org" : {
     "type" : "bias",
-    "2nd type" : "blog",
+    "2nd type" : "",
     "3rd type" : "",
     "Source Notes (things to know?)" : "A single-issue blog, it hasn't been updated since August 2016. It talks about guns, has lots of dead links, and has trouble distinguishing between legitimate and illegitimate sources.",
     "Investigated?" : ""
   },
   "floridasunpost.com" : {
     "type" : "fake",
-    "2nd type" : "satirical",
+    "2nd type" : "satire",
     "3rd type" : "",
     "Source Notes (things to know?)" : "I concur: http://mashable.com/2016/10/03/fake-news-story-man-marries-granddaughter/#QvpAzP.e8Oqb ",
     "Investigated?" : false
@@ -1885,7 +1885,7 @@
   "freedomoutpost.com" : {
     "type" : "conspiracy",
     "2nd type" : "bias",
-    "3rd type" : " ",
+    "3rd type" : "",
     "Source Notes (things to know?)" : "",
     "Investigated?" : false
   },
@@ -1950,7 +1950,7 @@
     "2nd type" : "reliable",
     "3rd type" : "",
     "Source Notes (things to know?)" : "website contains some satire ",
-    "Investigated?" : " "
+    "Investigated?" : ""
   },
   "gaia.com" : {
     "type" : "conspiracy",
@@ -2068,7 +2068,7 @@
     "type" : "conspiracy",
     "2nd type" : "",
     "3rd type" : "",
-    "Source Notes (things to know?)" : " ",
+    "Source Notes (things to know?)" : "",
     "Investigated?" : false
   },
   "GreenMedInfo.com" : {
@@ -2094,14 +2094,14 @@
   },
   "gulagbound.com" : {
     "type" : "bias",
-    "2nd type" : " ",
+    "2nd type" : "",
     "3rd type" : "",
     "Source Notes (things to know?)" : "",
     "Investigated?" : true
   },
   "hangthebankers.com" : {
     "type" : "conspiracy",
-    "2nd type" : " ",
+    "2nd type" : "",
     "3rd type" : "",
     "Source Notes (things to know?)" : "",
     "Investigated?" : true
@@ -2143,7 +2143,7 @@
   },
   "henrymakow.com" : {
     "type" : "conspiracy",
-    "2nd type" : " ",
+    "2nd type" : "",
     "3rd type" : "",
     "Source Notes (things to know?)" : "",
     "Investigated?" : false
@@ -2481,7 +2481,7 @@
     "type" : "unknown",
     "2nd type" : "",
     "3rd type" : "",
-    "Source Notes (things to know?)" : " ",
+    "Source Notes (things to know?)" : "",
     "Investigated?" : false
   },
   "knowledgeoftoday.org" : {
@@ -2699,7 +2699,7 @@
     "2nd type" : "clickbait",
     "3rd type" : "",
     "Source Notes (things to know?)" : "",
-    "Investigated?" : " "
+    "Investigated?" : ""
   },
   "madworldnews.com" : {
     "type" : "unreliable",
@@ -2713,7 +2713,7 @@
     "2nd type" : "clickbait",
     "3rd type" : "",
     "Source Notes (things to know?)" : "",
-    "Investigated?" : " "
+    "Investigated?" : ""
   },
   "magafeed.com" : {
     "type" : "rumor",
@@ -2825,7 +2825,7 @@
     "2nd type" : "satire",
     "3rd type" : "",
     "Source Notes (things to know?)" : "",
-    "Investigated?" : " "
+    "Investigated?" : ""
   },
   "msnbc.website" : {
     "type" : "fake",
@@ -2902,7 +2902,7 @@
     "2nd type" : "",
     "3rd type" : "",
     "Source Notes (things to know?)" : "",
-    "Investigated?" : " "
+    "Investigated?" : ""
   },
   "nationonenews.com" : {
     "type" : "fake",
@@ -2937,7 +2937,7 @@
     "2nd type" : "",
     "3rd type" : "",
     "Source Notes (things to know?)" : "",
-    "Investigated?" : " "
+    "Investigated?" : ""
   },
   "nbcpolitics.org" : {
     "type" : "unknown",
@@ -2972,7 +2972,7 @@
     "2nd type" : "bias",
     "3rd type" : "",
     "Source Notes (things to know?)" : "",
-    "Investigated?" : " "
+    "Investigated?" : ""
   },
   "newcenturytimes.com" : {
     "type" : "unreliable",
@@ -3046,15 +3046,15 @@
   },
   "newscorpse.com" : {
     "type" : "political",
-    "2nd type" : " ",
-    "3rd type" : " ",
+    "2nd type" : "",
+    "3rd type" : "",
     "Source Notes (things to know?)" : "http://www.newscorpse.com/ncWP/?p=34163",
     "Investigated?" : ""
   },
   "newsexaminer.net" : {
     "type" : "fake",
     "2nd type" : "satire",
-    "3rd type" : " ",
+    "3rd type" : "",
     "Source Notes (things to know?)" : "",
     "Investigated?" : "mz (12/5)"
   },
@@ -3084,7 +3084,7 @@
     "2nd type" : "bias",
     "3rd type" : "",
     "Source Notes (things to know?)" : "",
-    "Investigated?" : " "
+    "Investigated?" : ""
   },
   "newsmutiny.com" : {
     "type" : "satire",
@@ -3095,10 +3095,10 @@
   },
   "newsninja2012.com" : {
     "type" : "bias",
-    "2nd type" : " ",
+    "2nd type" : "",
     "3rd type" : "",
     "Source Notes (things to know?)" : "",
-    "Investigated?" : " "
+    "Investigated?" : ""
   },
   "newsopening.com" : {
     "type" : "unknown",
@@ -3438,7 +3438,7 @@
   },
   "patriotpost.us" : {
     "type" : "bias",
-    "2nd type" : " ",
+    "2nd type" : "",
     "3rd type" : "",
     "Source Notes (things to know?)" : "https://mediabiasfactcheck.com/the-patriot-post/ ; https://patriotpost.us/posts/48002 ; https://patriotpost.us/alexander/48000",
     "Investigated?" : ""
@@ -3501,7 +3501,7 @@
   },
   "politicalo.com" : {
     "type" : "fake",
-    "2nd type" : " ",
+    "2nd type" : "",
     "3rd type" : "",
     "Source Notes (things to know?)" : "",
     "Investigated?" : false
@@ -3510,7 +3510,7 @@
     "type" : "fake",
     "2nd type" : "",
     "3rd type" : "",
-    "Source Notes (things to know?)" : " ",
+    "Source Notes (things to know?)" : "",
     "Investigated?" : false
   },
   "politicaltimes.org" : {
@@ -3584,7 +3584,7 @@
     "Investigated?" : false
   },
   "pollhype.com" : {
-    "type" : "rumor ",
+    "type" : "rumor",
     "2nd type" : "clickbait",
     "3rd type" : "bias",
     "Source Notes (things to know?)" : "",
@@ -3672,7 +3672,7 @@
     "2nd type" : "",
     "3rd type" : "",
     "Source Notes (things to know?)" : "",
-    "Investigated?" : " "
+    "Investigated?" : ""
   },
   "projectveritas.com" : {
     "type" : "bias",
@@ -3798,7 +3798,7 @@
     "2nd type" : "unreliable",
     "3rd type" : "",
     "Source Notes (things to know?)" : "",
-    "Investigated?" : " "
+    "Investigated?" : ""
   },
   "redflagnews.com" : {
     "type" : "bias",
@@ -3812,7 +3812,7 @@
     "2nd type" : "clickbait",
     "3rd type" : "",
     "Source Notes (things to know?)" : "",
-    "Investigated?" : " "
+    "Investigated?" : ""
   },
   "redstatewatcher.com" : {
     "type" : "bias",
@@ -3837,7 +3837,7 @@
   },
   "remedydaily.com" : {
     "type" : "clickbait",
-    "2nd type" : " ",
+    "2nd type" : "",
     "3rd type" : "",
     "Source Notes (things to know?)" : "",
     "Investigated?" : ""
@@ -3896,7 +3896,7 @@
     "2nd type" : "unreliable",
     "3rd type" : "",
     "Source Notes (things to know?)" : "",
-    "Investigated?" : " "
+    "Investigated?" : ""
   },
   "righton.com" : {
     "type" : "unknown",
@@ -3910,7 +3910,7 @@
     "2nd type" : "unreliable",
     "3rd type" : "",
     "Source Notes (things to know?)" : "",
-    "Investigated?" : " "
+    "Investigated?" : ""
   },
   "rilenews.com" : {
     "type" : "fake",
@@ -4076,9 +4076,9 @@
   "sonsoflibertyradio.com" : {
     "type" : "conspiracy",
     "2nd type" : "bias",
-    "3rd type" : " unreliable",
+    "3rd type" : "unreliable",
     "Source Notes (things to know?)" : "",
-    "Investigated?" : " "
+    "Investigated?" : ""
   },
   "SovereignMan.com" : {
     "type" : "unreliable",
@@ -4183,7 +4183,7 @@
     "2nd type" : "clickbait",
     "3rd type" : "",
     "Source Notes (things to know?)" : "",
-    "Investigated?" : " "
+    "Investigated?" : ""
   },
   "thebostontribune.com" : {
     "type" : "fake",
@@ -4202,7 +4202,7 @@
   "thecontroversialfiles.net" : {
     "type" : "fake",
     "2nd type" : "clickbait",
-    "3rd type" : " ",
+    "3rd type" : "",
     "Source Notes (things to know?)" : "",
     "Investigated?" : false
   },
@@ -4265,7 +4265,7 @@
   "thefederalistpapers.org" : {
     "type" : "bias",
     "2nd type" : "conspiracy",
-    "3rd type" : " ",
+    "3rd type" : "",
     "Source Notes (things to know?)" : "",
     "Investigated?" : false
   },
@@ -4330,7 +4330,7 @@
     "2nd type" : "",
     "3rd type" : "",
     "Source Notes (things to know?)" : "",
-    "Investigated?" : " "
+    "Investigated?" : ""
   },
   "theintercept.com" : {
     "type" : "political",
@@ -4463,7 +4463,7 @@
     "2nd type" : "bias",
     "3rd type" : "unreliable",
     "Source Notes (things to know?)" : "",
-    "Investigated?" : " "
+    "Investigated?" : ""
   },
   "theracketreport.com" : {
     "type" : "fake",
@@ -4505,7 +4505,7 @@
     "2nd type" : "",
     "3rd type" : "",
     "Source Notes (things to know?)" : "",
-    "Investigated?" : " "
+    "Investigated?" : ""
   },
   "theshovel.com.au" : {
     "type" : "satire",
@@ -4614,7 +4614,7 @@
   },
   "TomWoods.com" : {
     "type" : "political",
-    "2nd type" : "unrealiable",
+    "2nd type" : "unreliable",
     "3rd type" : "",
     "Source Notes (things to know?)" : "",
     "Investigated?" : ""
@@ -4673,11 +4673,11 @@
     "2nd type" : "bias",
     "3rd type" : "conspiracy",
     "Source Notes (things to know?)" : "",
-    "Investigated?" : " "
+    "Investigated?" : ""
   },
   "truthfrequencyradio.com" : {
     "type" : "conspiracy",
-    "2nd type" : " ",
+    "2nd type" : "",
     "3rd type" : "",
     "Source Notes (things to know?)" : "",
     "Investigated?" : false
@@ -4736,7 +4736,7 @@
     "2nd type" : "",
     "3rd type" : "",
     "Source Notes (things to know?)" : "",
-    "Investigated?" : " "
+    "Investigated?" : ""
   },
   "universepolitics.com" : {
     "type" : "fake",
@@ -4855,7 +4855,7 @@
     "2nd type" : "unreliable",
     "3rd type" : "",
     "Source Notes (things to know?)" : "",
-    "Investigated?" : " "
+    "Investigated?" : ""
   },
   "usapoliticus.com" : {
     "type" : "unknown",
@@ -4873,7 +4873,7 @@
   },
   "usasupreme.com" : {
     "type" : "fake",
-    "2nd type" : " ",
+    "2nd type" : "",
     "3rd type" : "",
     "Source Notes (things to know?)" : "",
     "Investigated?" : false
@@ -4918,7 +4918,7 @@
     "2nd type" : "",
     "3rd type" : "",
     "Source Notes (things to know?)" : "",
-    "Investigated?" : " "
+    "Investigated?" : ""
   },
   "usfanzone.com" : {
     "type" : "fake",
@@ -4939,7 +4939,7 @@
     "2nd type" : "conspiracy",
     "3rd type" : "unreliable",
     "Source Notes (things to know?)" : "",
-    "Investigated?" : " "
+    "Investigated?" : ""
   },
   "uslifetoday.com" : {
     "type" : "clickbait",
@@ -4965,7 +4965,7 @@
   "usviewer.com" : {
     "type" : "unreliable",
     "2nd type" : "fake",
-    "3rd type" : " ",
+    "3rd type" : "",
     "Source Notes (things to know?)" : "basically copy/pastes parts of actual reuters stories, no authors listed or publication info",
     "Investigated?" : false
   },
@@ -5027,7 +5027,7 @@
   },
   "wakingupwisconsin.com" : {
     "type" : "conspiracy",
-    "2nd type" : " ",
+    "2nd type" : "",
     "3rd type" : "",
     "Source Notes (things to know?)" : "",
     "Investigated?" : false
@@ -5042,7 +5042,7 @@
   "washingtonexaminer.com" : {
     "type" : "political",
     "2nd type" : "unreliable",
-    "3rd type" : " ",
+    "3rd type" : "",
     "Source Notes (things to know?)" : "",
     "Investigated?" : ""
   },
@@ -5064,7 +5064,7 @@
     "type" : "unknown",
     "2nd type" : "",
     "3rd type" : "",
-    "Source Notes (things to know?)" : " ",
+    "Source Notes (things to know?)" : "",
     "Investigated?" : ""
   },
   "wealthwire.com" : {
@@ -5181,14 +5181,14 @@
   },
   "wikileaks.com" : {
     "type" : "unreliable",
-    "2nd type" : " ",
-    "3rd type" : " ",
+    "2nd type" : "",
+    "3rd type" : "",
     "Source Notes (things to know?)" : "https://www.nytimes.com/2017/03/09/opinion/the-truth-about-the-wikileaks-cia-cache.html?_r=0",
     "Investigated?" : false
   },
   "wikileaks.org" : {
     "type" : "unreliable",
-    "2nd type" : " ",
+    "2nd type" : "",
     "3rd type" : "",
     "Source Notes (things to know?)" : "Increasingly wikileaks is being accused of spreading misinformation",
     "Investigated?" : false
@@ -5212,7 +5212,7 @@
     "2nd type" : "",
     "3rd type" : "",
     "Source Notes (things to know?)" : "",
-    "Investigated?" : " "
+    "Investigated?" : ""
   },
   "winkprogress.com" : {
     "type" : "satire",
@@ -5224,7 +5224,7 @@
   "winningdemocrats.com" : {
     "type" : "bias",
     "2nd type" : "unreliable",
-    "3rd type" : " ",
+    "3rd type" : "",
     "Source Notes (things to know?)" : "",
     "Investigated?" : false
   },
@@ -5373,7 +5373,7 @@
     "2nd type" : "unreliable",
     "3rd type" : "",
     "Source Notes (things to know?)" : "",
-    "Investigated?" : " "
+    "Investigated?" : ""
   },
   "yourfunpage.com" : {
     "type" : "fake",
