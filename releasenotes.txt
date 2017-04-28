@@ -1,3 +1,6 @@
+v2.1.0
+Added new sources
+
 v2.0.0:
 Removed "credible and not credible source directories"
 All sources now contained in Source directory in one json file
