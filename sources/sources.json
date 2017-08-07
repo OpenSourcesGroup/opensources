@@ -205,7 +205,7 @@
   },
   "DeadlyClear.wordpress.com" : {
     "type" : "bias",
-    "2nd type" : "fake news",
+    "2nd type" : "",
     "3rd type" : "",
     "Source Notes (things to know?)" : "Not a personal website, owned by Project Maui, Inc. Makes unverifiable extraordinary claims, seems to be advertising for lawyers with a history of legal reprimands."
   },
@@ -3156,7 +3156,7 @@
     "Source Notes (things to know?)" : "http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/"
   },
   "FarmWars.info" : {
-    "type" : "fake news",
+    "type" : "",
     "2nd type" : "conspiracy",
     "3rd type" : "",
     "Source Notes (things to know?)" : "Much of the site is focused on anti-GMO conspiracies, with political conspiracies coming in as a close second. There are some apparent attempts to source some wild claims, but the use of unstable URLs-- intentionally or otherwise-- thwarts this."
